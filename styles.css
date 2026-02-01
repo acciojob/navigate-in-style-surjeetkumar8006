@@ -1,15 +1,15 @@
-.navbar {
+.container {
     background-color: #D3D3D3;
     padding: 10px;
 }
 
-.navbar ul {
+ul {
+    display: flex;
     list-style: none;
-    padding: 0;
     margin: 0;
+    padding: 0;
 }
 
-.navbar ul li {
-    display: inline;
+li {
     margin-right: 1rem;
 }
